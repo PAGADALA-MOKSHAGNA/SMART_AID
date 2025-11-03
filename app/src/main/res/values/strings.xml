@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart First Aid</string>
+    <string name="todo">TODO</string>
+    <string name="tagline">Provides an Offline First Aid</string>
+    <string name="signIn">Sign In</string>
+    <string name="register">Register</string>
+    <string name="version"><![CDATA[New User -> Register, v1.0]]></string>
+    <string name="signin">SignIn</string>
+    <string name="registration">Registration</string>
+    <string name="emergency">EMERGENCY</string>
+</resources>
